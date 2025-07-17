@@ -17,12 +17,12 @@
             - ESC: BLHeliS J-H-40, 35A (45A 5s), DSHOT300/600
             - 3-6S LiPo
             - Barometer
-    - Camera
+    - Camera (analog)
         - Runcam Phoenix 2 1000TVL 2.1mm FPV Camera - Joshua Bardwell Edition - Silver 
+    - VTx (analog, mount 20 & 25.5 M2, 5.8 GHz)
+        - (?) VTX OpenVTX HappyModel OVX303 5.8G 40ch 300mw 
     - Rx
         - (?) HAPPYMODEL EP1 TCXO 2.4GHZ EXPRESSLRS ELRS
-    - VTx
-        - (?) VTX OpenVTX HappyModel OVX303 5.8G 40ch 300mw 
     - Motors
         - 
     - Props
