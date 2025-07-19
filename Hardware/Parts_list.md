@@ -1,4 +1,8 @@
 1. Drone
+    - Final Build:
+        - FC:       SpeedyBee F405 AIO
+        - ESC:      Built-in FC
+        - Frame:    
     - Frame
         - Axisflying CineON C35 V2
             - Link US: https://www.getfpv.com/axisflying-cineon-c35-3-5-frame-kit-w-aluminum-camera-plates.html
@@ -9,14 +13,19 @@
             - Motor mounting 12x12
             - Props: max 3.5"
     - FC + ESC
+        - SpeedyBee F405 AIO
+            - Link US:
+            - 
+            - Weight: 13.4g
+            - Mounting: 25.5 x 25.5, 2M
         - SpeedyBee F405 mini
             - Link US: https://www.getfpv.com/speedybee-f405-mini-stack-f405-v3-fc-35a-3-6s-blheli-s-4-in-1-esc-20x20.html
             - 82$
             - Weight: 16.8g
             - Mounting: 20x20mm (M2 & M3)
-            - ESC: BLHeliS J-H-40, 35A (45A 5s), DSHOT300/600
             - 3-6S LiPo
             - Barometer
+            - ESC: BLHeliS J-H-40, 35A (45A 5s), DSHOT300/600
     - Camera (analog)
         - Runcam Phoenix 2 1000TVL 2.1mm FPV Camera - Joshua Bardwell Edition - Silver 
     - VTx (analog, mount 20 & 25.5 M2, 5.8 GHz)
