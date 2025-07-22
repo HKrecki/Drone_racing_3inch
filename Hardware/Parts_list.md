@@ -2,7 +2,11 @@
     - Final Build:
         - FC:       SpeedyBee F405 AIO
         - ESC:      Built-in FC
-        - Frame:    
+        - Frame:    Foxeer Foxwhoop 25 Cinewhoop
+        - Camera:
+        - VTx:
+        - Tx:
+        - Motors:
     - Frame
         - Axisflying CineON C35 V2
             - Link US: https://www.getfpv.com/axisflying-cineon-c35-3-5-frame-kit-w-aluminum-camera-plates.html
