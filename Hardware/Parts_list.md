@@ -3,7 +3,7 @@
         - FC:       SpeedyBee F405 AIO
         - ESC:      Built-in FC
         - Frame:    Foxeer Foxwhoop 25 Cinewhoop
-        - Camera:
+        - Camera:   Foxeer T-Rex
         - VTx:
         - Tx:
         - Motors:
