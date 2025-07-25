@@ -7,6 +7,7 @@
         - VTx:
         - Tx:
         - Motors:
+        
     - Frame
         - Axisflying CineON C35 V2
             - Link US: https://www.getfpv.com/axisflying-cineon-c35-3-5-frame-kit-w-aluminum-camera-plates.html
