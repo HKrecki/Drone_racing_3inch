@@ -4,8 +4,8 @@
         - ESC:      Built-in FC
         - Frame:    Foxeer Foxwhoop 25 Cinewhoop
         - Camera:   Foxeer T-Rex
-        - VTx:
-        - Tx:
+        - VTx:      OpenVTX HappyModel OVX303 5.8G
+        - Tx:       
         - Motors:
         
     - Frame
