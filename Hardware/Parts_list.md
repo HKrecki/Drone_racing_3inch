@@ -3,8 +3,8 @@
         - FC:       SpeedyBee F405 AIO
         - ESC:      Built-in FC
         - Frame:    Foxeer Foxwhoop 25 Cinewhoop
-        - Camera:   Foxeer T-Rex
-        - VTx:      OpenVTX HappyModel OVX303 5.8G
+        - Camera:   Caddx Ratel 2 (used - on 5inch (new: Foxeer T-Rex)) 
+        - VTx:      OpenVTX HappyModel OVX303 5.8G (used - on 5inch (new: SpeedyBee TX800))
         - Tx:       
         - Motors:
         
