@@ -7,7 +7,7 @@
         - VTx:      OpenVTX HappyModel OVX303 5.8G (used - on 5inch (new: SpeedyBee TX800))
         - Rx:       Happymodel TCXO ExpressLRS 2.4GHz Nano Receiver - EP1 (used - on 5inch (new: BETAFPV SuperD))   
         - Motors:   Foxeer Datura 1404 3850KV
-        - Props:    
+        - Props:    HQProp DP T2.5X2.5X3 PC (additional: Gemfan Flash 2540 Durable 3 Blade, EMAX AVAN Rush 2.5x1.9x3)
         - Battery:  
         
     - Frame
