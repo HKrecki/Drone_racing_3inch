@@ -5,8 +5,10 @@
         - Frame:    Foxeer Foxwhoop 25 Cinewhoop
         - Camera:   Caddx Ratel 2 (used - on 5inch (new: Foxeer T-Rex)) 
         - VTx:      OpenVTX HappyModel OVX303 5.8G (used - on 5inch (new: SpeedyBee TX800))
-        - Rx:       Happymodel TCXO ExpressLRS 2.4GHz Nano Receiver - EP1 (used - on 5inch (new: BETAFPV SuperD))
-        - Motors: 
+        - Rx:       Happymodel TCXO ExpressLRS 2.4GHz Nano Receiver - EP1 (used - on 5inch (new: BETAFPV SuperD))   
+        - Motors:   Foxeer Datura 1404 3850KV
+        - Props:    
+        - Battery:  
         
     - Frame
         - Axisflying CineON C35 V2
