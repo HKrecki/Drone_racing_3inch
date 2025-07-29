@@ -8,7 +8,7 @@
         - Rx:       Happymodel TCXO ExpressLRS 2.4GHz Nano Receiver - EP1 (used - on 5inch (new: BETAFPV SuperD))   
         - Motors:   Foxeer Datura 1404 3850KV
         - Props:    HQProp DP T2.5X2.5X3 PC (additional: Gemfan Flash 2540 Durable 3 Blade, EMAX AVAN Rush 2.5x1.9x3)
-        - Battery:  
+        - Battery:  Tattu R-Line Version 1.0 3S 750mAh & Lumenier LX 3S 700mAh 
         
     - Frame
         - Axisflying CineON C35 V2
@@ -60,3 +60,6 @@
     - Skyzone Cobra SD
         - Link PL: https://www.nobshop.pl/cobra-sd-p-3178.html
         - 875 zł
+
+4. Battery charger
+    - Gens Ace iMars S100 100W 2-6S 230V
