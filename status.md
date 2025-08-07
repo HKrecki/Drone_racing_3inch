@@ -1,12 +1,11 @@
 Plan and status
 
-Current status: parts selection
-1. Flight controller
-    - Req: as small as possible, barometer
-    - Options:
-        - SpeedyBee F405 AIO
-        - SpeedyBee F405 mini
-2. Frame
-    - Req: fits to FC, props cover
-    - Options:
-        - Axisflying CineON C35 V2 3.5" Cinewhoop Frame Kit 
+1. [DONE] Prepare hardware specification
+2. [DONE] Order all parts
+3.        Check physical compatibility
+4.        Mount FC in the frame 
+5.        Flash FC firmware and check if it's working
+6.        Basic configuration of FC
+7.        Connect all elements to the FC
+8.        Configure software 
+9.        Check if all elements are working
