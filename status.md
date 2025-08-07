@@ -7,6 +7,7 @@ Plan and status
 5. [DONE] Flash FC firmware and check if it's working
 6.        Basic configuration of FC
     - Problem with calibrating accelerometer when FC is mounted upside down
+        - Check this tutorial: https://www.youtube.com/watch?v=Af-bbT-2exI
 
 
 
