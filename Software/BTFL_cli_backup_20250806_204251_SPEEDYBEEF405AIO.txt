@@ -1,0 +1,56 @@
+defaults nosave
+
+
+# version
+# Betaflight / STM32F405 (S405) 4.5.1 Sep 24 2024 / 14:34:30 (a8c404b64) MSP API: 1.46
+# config rev: a8c404b64
+
+# start the command batch
+batch start
+
+# reset configuration to default settings
+defaults nosave
+
+board_name SPEEDYBEEF405AIO
+manufacturer_id SPBE
+mcu_id 002400233034510f32303636
+signature 
+
+# feature
+feature TELEMETRY
+feature OSD
+
+# aux
+aux 0 13 255 900 900 0 0
+
+# master
+set osd_vbat_pos = 2282
+set osd_warnings_pos = 14740
+set osd_displayport_device = AUTO
+set osd_canvas_width = 30
+set osd_canvas_height = 13
+set vcd_video_system = AUTO
+
+profile 0
+
+profile 1
+
+profile 2
+
+profile 3
+
+# restore original profile selection
+profile 0
+
+rateprofile 0
+
+rateprofile 1
+
+rateprofile 2
+
+rateprofile 3
+
+# restore original rateprofile selection
+rateprofile 0
+
+# save configuration
