@@ -47,18 +47,25 @@
     
 
 2. Radio 
-    -  Aparatura Radiomaster Pocket Crush ELRS M2
+    - Aparatura RadioMaster Pocket ExpressLRS Radio Controller 
+        - Link PL: https://rcmaniak.pl/pl/p/Aparatura-RadioMaster-Pocket-ExpressLRS-Radio-Controller/5531
+        - 299 zł
+        - dgeTX, ELRS
+        - Accu: 18650
+            - Link PL: https://rcmaniak.pl/pl/p/Samsung-INR18650-35E-3400mAh-Li-ION/5550
+    - Aparatura Radiomaster Pocket Crush ELRS M2
         - Link PL: https://flyfpv.pl/pl/p/Aparatura-Radiomaster-Pocket-Crush-ELRS-M2/455
         - 349 zł
         - EdgeTX, ELRS
         - Accu: 18650
+            - Link PL: https://rcmaniak.pl/pl/p/Samsung-INR18650-35E-3400mAh-Li-ION/5550
 
 3. Google
     - Skyzone Cobra X V4
         - Link PL: https://www.nobshop.pl/gogle-fpv-skyzone-cobra-x-p-2865.html
         - 1300 zł
     - Skyzone Cobra SD
-        - Link PL: https://www.nobshop.pl/cobra-sd-p-3178.html
+        - Link PL: https://rcmaniak.pl/pl/p/Gogle-Skyzone-COBRA-SD-OLED-FPV-Szare/5744
         - 875 zł
 
 4. Battery charger
