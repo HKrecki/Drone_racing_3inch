@@ -8,7 +8,7 @@
         - Rx:       Happymodel TCXO ExpressLRS 2.4GHz Nano Receiver - EP1 (used - on 5inch (new: BETAFPV SuperD))   
         - Motors:   Foxeer Datura 1404 3850KV
         - Props:    HQProp DP T2.5X2.5X3 PC (additional: Gemfan Flash 2540 Durable 3 Blade, EMAX AVAN Rush 2.5x1.9x3)
-        - Battery:  Tattu R-Line Version 1.0 3S 750mAh & Lumenier LX 3S 700mAh 
+        - Battery:  Tattu R-Line Version 5.0 850mAh & Lumenier LX 3S 700mAh 
         
     - Frame
         - Axisflying CineON C35 V2
