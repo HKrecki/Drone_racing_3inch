@@ -10,6 +10,7 @@ Plan and status
     - Frame front is there where is the hole
     - Build tutorial (current: 10:00): https://www.youtube.com/watch?v=H9Zjom8Zpb8&t=4s
     - Check motors mounting and length on needed wire
+        - TO BUY: Spacers M2 (FC mount), screws M2x10 (motors mount)
     - Solder motor wires to FC
 8. Configure software 
 9. Check if all elements are working
