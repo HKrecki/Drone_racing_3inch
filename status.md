@@ -11,7 +11,7 @@ Plan and status
     - Build tutorial (current: 10:00): https://www.youtube.com/watch?v=H9Zjom8Zpb8&t=4s
     - Elements to solder (order of soldering): 
         - Accu       - Soldered -> need to buy adapter XT30 -> XT60 (charger)
-        - Rx         - Ready to solder
+        - Rx         - Soldered (Radio paired)
         - Motors     - Ready to solder
         - Camera     - Ready to solder
         - VTx        - Ready to solder
