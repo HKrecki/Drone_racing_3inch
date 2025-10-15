@@ -9,6 +9,7 @@ Plan and status
 7. Connect all elements to the FC
     - Frame front is there where is the hole
     - Build tutorial (current: 10:00): https://www.youtube.com/watch?v=H9Zjom8Zpb8&t=4s
+    - Useful link (custom build): https://www.youtube.com/watch?v=qWrwDn6AeWM
     - Elements to solder (order of soldering): 
         - Accu       - Soldered -> need to buy adapter XT30 -> XT60 (charger)
         - Rx         - Soldered (Radio paired)
