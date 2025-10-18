@@ -14,7 +14,8 @@ Plan and status
         - Accu       - Soldered -> need to buy adapter XT30 -> XT60 (charger)
         - Rx         - Soldered (Radio paired)
         - Motors     - Soldered (basic configuration, DSHOT600, output enabled)
-        - Camera     - Ready to solder
-        - VTx        - Ready to solder
+        - Camera     - Soldered
+        - VTx        - Soldered
+    - Tighten the screws, add carbon element, organize wires
 8. Configure software 
 9. Check if all elements are working
