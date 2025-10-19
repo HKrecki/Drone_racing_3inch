@@ -1,4 +1,9 @@
-# diff all
+Entering CLI Mode, type 'exit' to return, or 'help'
+
+# 
+# Building AutoComplete Cache ... Done!
+# 
+# diff all 
 
 # version
 # INAV/SPEEDYBEEF405AIO 8.0.1 Mar 28 2025 / 09:55:58 (ae47bcba) 
@@ -72,6 +77,17 @@ aux 3 13 4 1700 2100
 #wp 0 invalid
 
 # OSD [osd_layout]
+osd_layout 0 0 26 1 V
+osd_layout 0 1 12 1 H
+osd_layout 0 7 13 13 V
+osd_layout 0 9 1 2 H
+osd_layout 0 11 2 3 H
+osd_layout 0 12 1 4 H
+osd_layout 0 15 0 1 V
+osd_layout 0 28 23 13 V
+osd_layout 0 30 1 14 V
+osd_layout 0 32 12 1 V
+osd_layout 0 105 22 0 H
 
 # Programming: logic
 
@@ -87,10 +103,10 @@ set dynamic_gyro_notch_q = 250
 set dynamic_gyro_notch_min_hz = 60
 set dynamic_gyro_notch_mode = 3D
 set setpoint_kalman_q = 200
-set gyro_zero_x = -1
+set gyro_zero_x = -2
 set gyro_zero_y = 1
 set gyro_zero_z = 10
-set ins_gravity_cmss =  977.582
+set ins_gravity_cmss =  978.384
 set acc_hardware = ICM42605
 set acczero_x = -53
 set acczero_y = -9
