@@ -53,7 +53,7 @@ blackbox SERVOS
 # Receiver: Channel map
 
 # Ports
-serial 2 2048 115200 115200 0 115200
+serial 2 4096 115200 115200 0 115200
 
 # LEDs
 
@@ -81,13 +81,14 @@ osd_layout 0 0 26 1 V
 osd_layout 0 1 12 1 H
 osd_layout 0 7 13 13 V
 osd_layout 0 9 1 2 H
+osd_layout 0 10 21 2 V
 osd_layout 0 11 2 3 H
 osd_layout 0 12 1 4 H
 osd_layout 0 15 0 1 V
 osd_layout 0 28 23 13 V
 osd_layout 0 30 1 14 V
 osd_layout 0 32 12 1 V
-osd_layout 0 105 22 0 H
+osd_layout 0 105 21 3 V
 
 # Programming: logic
 
@@ -103,10 +104,9 @@ set dynamic_gyro_notch_q = 250
 set dynamic_gyro_notch_min_hz = 60
 set dynamic_gyro_notch_mode = 3D
 set setpoint_kalman_q = 200
-set gyro_zero_x = -2
 set gyro_zero_y = 1
-set gyro_zero_z = 10
-set ins_gravity_cmss =  978.384
+set gyro_zero_z = 11
+set ins_gravity_cmss =  979.463
 set acc_hardware = ICM42605
 set acczero_x = -53
 set acczero_y = -9
@@ -123,6 +123,8 @@ set failsafe_procedure = DROP
 set align_board_roll = 1800
 set applied_defaults = 6
 set airmode_type = THROTTLE_THRESHOLD
+set vtx_band = 4
+set vtx_power = 3
 
 # control_profile
 control_profile 1
