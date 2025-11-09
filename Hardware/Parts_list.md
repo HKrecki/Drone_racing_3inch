@@ -1,14 +1,14 @@
 1. Drone
     - Final Build:
-        - FC:       SpeedyBee F405 AIO
+        - FC:       SpeedyBee F405 AIO - 72.99$
         - ESC:      Built-in FC
-        - Frame:    Foxeer Foxwhoop 25 Cinewhoop
-        - Camera:   Caddx Ratel 2 (used - on 5inch (new: Foxeer T-Rex Micro)) 
-        - VTx:      OpenVTX HappyModel OVX303 5.8G (used - on 5inch (new: SpeedyBee TX800))
-        - Rx:       Happymodel TCXO ExpressLRS 2.4GHz Nano Receiver - EP1 (used - on 5inch (new: BETAFPV SuperD))   
-        - Motors:   Foxeer Datura 1404 3850KV
-        - Props:    HQProp DP T2.5X2.5X3 PC (additional: Gemfan Flash 2540 Durable 3 Blade, EMAX AVAN Rush 2.5x1.9x3)
-        - Battery:  Tattu R-Line Version 5.0 850mAh & Lumenier LX 3S 700mAh 
+        - Frame:    Foxeer Foxwhoop 25 Cinewhoop - 38.99$
+        - Camera:   Caddx Ratel 2 (used - on 5inch (new: Foxeer T-Rex Micro)) - 120zł 
+        - VTx:      OpenVTX HappyModel OVX303 5.8G (used - on 5inch (new: SpeedyBee TX800)) - 70zł
+        - Rx:       Happymodel TCXO ExpressLRS 2.4GHz Nano Receiver - EP1 (used - on 5inch (new: BETAFPV SuperD)) - 60zł
+        - Motors:   Foxeer Datura 1404 3850KV - 77.96$
+        - Props:    HQProp DP T2.5X2.5X3 PC (additiona l: Gemfan Flash 2540 Durable 3 Blade, EMAX AVAN Rush 2.5x1.9x3) - 11.47$
+        - Battery:  Tattu R-Line Version 5.0 850mAh & Lumenier LX 3S 700mAh - 79.00zł + 25.99$
         
     - Frame
         - Axisflying CineON C35 V2
@@ -70,3 +70,22 @@
 
 4. Battery charger
     - Gens Ace iMars S100 100W 2-6S 230V
+
+5. Total cost
+    - Drone parts:
+        - FC + ESC: 72.99$      - SpeedyBee F405 AIO 
+        - Frame:    38.99$      - Foxeer Foxwhoop 25 Cinewhoop
+        - Camera:   120zł       - Caddx Ratel 2 (used)
+        - VTx:      70zł        - OpenVTX HappyModel OVX303 5.8G (used)
+        - Rx:       60zł        - Happymodel TCXO ExpressLRS 2.4GHz Nano Receiver (used)
+        - Motors:   77.96$      - Foxeer Datura 1404 3850KV
+        - Props:    11.47$      - HQProp DP T2.5X2.5X3, Gemfan Flash 2540 3 Blade, EMAX AVAN Rush 2.5x1.9x3
+        - Battery:  25.99$+79zł - Tattu R-Line Version 5.0 850mAh & Lumenier LX 3S 700mAh
+        ----------------------------------------------------------------------------------------------------
+        - TOTAL(parts) :    227.40$ + 329zł === (1$ = 3.65zł) ===> 830.01 + 329 ~= 1159zł
+    - RadioMaster Pocket ExpressLRS Radio Controller: 299zł
+    - Gogle Skyzone COBRA SD OLED FPV Szare:          875zł
+    - Samsung INR18650-35E 3400mAh Li-ION:            96zł
+    - Charger Gens Ace iMars S100:                    190zł
+
+    TOTAL: 2619zł
